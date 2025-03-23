@@ -7,7 +7,7 @@
 4. [Blue Team](#blue-team)  
 
 ## Digital Forensics
-- [Amcache](files/Amcache.pdf)  
+- [Amcache](files/AMcache.pdf)  
 
 ## Malware Development
 Content goes here...
