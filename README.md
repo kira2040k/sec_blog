@@ -1,7 +1,7 @@
 # Table of Contents
 
 1. [Digital Forensics](#digital-forensics)  
-   - [Amcache](files/Amcache.pdf)  
+   - [Amcache](files/amcache.pdf)
 2. [Malware Development](#malware-development)  
 3. [Code Review](#code-review)  
 4. [Blue Team](#blue-team)  
